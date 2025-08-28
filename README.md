@@ -1,3 +1,3 @@
 # Password-Generator
 Cool project
-https://github.com/username/repository/blob/main/path/to/your/file.txt
+https://github.com/akrestinin6-web/Password-Generator/blob/main/passwordgen.exe

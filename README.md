@@ -1,5 +1,5 @@
 # Password-Generator
-**Как установить приложение**
+**Как установить приложение.**
 Заходите по ссылке и нажимаете View Raw, затем у вас начнется скачивание.
 https://github.com/akrestinin6-web/Password-Generator/blob/main/passwordgen.exe. 
 Запускаете программу и следуете инструкции снизу
